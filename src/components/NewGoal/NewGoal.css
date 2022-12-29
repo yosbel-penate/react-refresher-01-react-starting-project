@@ -1,0 +1,8 @@
+.new-goal{
+    margin: 2rem;
+    text-align: center;
+}
+
+.new-goal input {
+    margin: 2px;
+}
